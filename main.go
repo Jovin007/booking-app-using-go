@@ -5,6 +5,7 @@ import (
 	"net/http"
 )
 
+// Using constant port number
 const portNumber = ":8080"
 
 // Home is the handler for the home page
